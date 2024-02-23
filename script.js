@@ -9,7 +9,7 @@ const gameData = [
     { imgSrc: "Cars/Lamborghini Huracan.jpg", correctOption: "Lamborghini Huracan", options: ["Lamborghini Aventador", "Ferrari 488 GTB", "Lamborghini Huracan", "Mclaren 570"] },
     { imgSrc: "Cars/Aston Martin DB9.jpg", correctOption: "Aston Martin DB9", options: ["Aston Martin DB11", "Aston Martin DB9", "Aston Martin V8 Vantage", "Aston Martin Valkyrie"] },
     { imgSrc: "Cars/Ferrari 488 GTB.jpg", correctOption: "Ferrari 488 GTB", options: ["Ferrari 488 GTB", "Lamborghini Huracan", "Mclaren 720s", "Ferrari 488 Pista"] },
-    { imgSrc: "Cars/lamborghini Urus.jpg", correctOption: "Lamborghini Urus", options: ["Lamborghini Huracan", "Audi RSQ8", "Ferrari Purosangue", "Lamborghini Urus"] },
+    { imgSrc: "Cars/Lamborghini Urus.jpg", correctOption: "Lamborghini Urus", options: ["Lamborghini Huracan", "Audi RSQ8", "Ferrari Purosangue", "Lamborghini Urus"] },
     { imgSrc: "Cars/Audi RS7.jpg", correctOption: "Audi RS7", options: ["Audi SQ5", "Audi SQ8", "Audi RS7", "Audi RS5"] },
     { imgSrc: "Cars/Aston Martin DBX.jpg", correctOption: "Aston Martin DBX", options: ["Aston Martin DBX", "Aston Martin Vantage", "Aston Martin DB11", "Aston Martin DB9"] },
     { imgSrc: "Cars/Lamborghini Aventador.jpg", correctOption: "Lamborghini Aventador", options: ["Ferrari 599", "Mclaren P1", "Lamborghini Huracan", "Lamborghini Aventador"] },
